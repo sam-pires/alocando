@@ -181,7 +181,7 @@ end
 puts "all flights created"
 
 
-if City.count != 4925
+if City.count == 4925
 
   puts "fetching the city description, acitivities and picture"
 
